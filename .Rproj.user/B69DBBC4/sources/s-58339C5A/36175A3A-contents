@@ -1,0 +1,26 @@
+---
+title: "teste-PD"
+author: "Priscila Dias"
+date: "12 de junho de 2018"
+output: word_document
+---
+
+- pasta com arquivos
+
+- abro o Git Bash na  pasta
+
+```
+ls #lista os arqivos da pasta
+```
+
+```
+git init #inicia o app 
+```
+
+```
+git status #mostra o status do repositório
+```
+
+```
+gid add
+´´´
