@@ -9,37 +9,34 @@ output: word_document
 
 - abro o Git Bash na  pasta
 
-```
-ls #lista os arqivos da pasta
-```
 
-```
-git init #inicia o repositório de git (cada vez que abrir uma pasta tm qu digitar esse comando)
-```
-```
+ls 
+<!-- #lista os arqivos da pasta -->
+
+
+git init 
+<!-- #inicia o repositório de git (cada vez que abrir uma pasta tm qu digitar esse comando) -->
+
+
 git config --global user.name "Priscila Araújo Dias"
 git config --global user.email "prisciladias.araujo@outlook.com"
-```
 
 
+git status 
+<!-- #mostra o status do repositório -->
 
 
-```
-git status #mostra o status do repositório
-```
+gid add . 
+<!-- #adiciona os arquivos (o . indica que vai adicionar todos os arquivos) -->
 
-```
-gid add . #adiciona os arquivos (o . indica que vai adicionar todos os arquivos)
-´´´
 
-```
 git commit -m "minha mensagem" 
-#dar nomes para as modificações que foram realizadas
-```
+<!-- #dar nomes para as modificações que foram realizadas -->
 
-```
-git push #mandar as modificações para a nuvem
-```
+
+git push 
+<!-- #mandar as modificações para a nuvem -->
+
 
 
 ## Curso
